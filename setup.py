@@ -15,6 +15,6 @@ setup(
     package_data        = {},
     zip_safe            = False,
     classifiers         = [
-        'Programming Language :: Python :: 3.8.13',
+        'Programming Language :: Python :: 3.8',
     ],
 )
